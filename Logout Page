@@ -36,7 +36,7 @@ li a:hover {
     background-color: #0FFFFF;
 }
 
-footer{position:absolute; width:99.3%; bottom:0;}
+footer{position:absolute; width:99.3%; bottom:0;text-align:right;}
 </style>
 <body>
 
@@ -67,7 +67,7 @@ footer{position:absolute; width:99.3%; bottom:0;}
 </body>
 
 <footer style="background-color:#0000FF;">
-  <p><h3>Website maintained by <b>Team TeraShare</b> </h3></p>
+  <p><h3>Website maintained and Developed by <b>Team TeraShare</b> </h3></p>
   <p><h3>Contact information: <a href="mailto:terashare@iitgn.ac.in">
   terashare@iitgn.ac.in</a>.</h3></p>
 </footer>
