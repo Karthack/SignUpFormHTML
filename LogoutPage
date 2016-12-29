@@ -1,0 +1,92 @@
+<html>
+
+<title > Logged Out Successfully </title>
+
+<style>
+  body{
+    background-color:black;
+    margin: 0;
+  }
+
+
+  h1{background-color: #0000FF;
+  margin:0;
+  font-size:350%;}
+  h2{background-color:blue;
+  color:black;
+  position:center;}
+  h4{margin:0;}
+  fieldset{font-size:1.4em;background-color:blue;border-radius:30px;line-height:200%;}
+  ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: #0040FF;
+  }
+
+  li {
+      float: right;
+  }
+
+  li a {
+      display: block;
+      color: black;
+      text-align: center;
+      padding: 16px;
+      text-decoration: none;
+  }
+
+  li a:hover {
+      background-color: #0FFFFF;
+  }
+
+  footer{position:absolute;width:100%; bottom:0;text-align:right;}
+</style>
+
+
+<body>
+
+  <div class='section1'>
+    <div class="nav">
+      <ul>
+        <li><a href="#signin">Sign In</a></li>
+        <li><a href="#request">Request</a></li>
+        <li><a href="#faq">FAQ</a></li>
+        <li><a href="#home">Home</a></li>
+
+      </ul>
+
+    </div>
+    <div class="intro">
+      
+        <center><h1><big><b>TeraShare</b></big></h1></center>
+
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+
+        <fieldset style = "width: 40%; margin: 0px auto;padding:30px;">
+        <h2><center>You Have logged out successfully</center></h2>
+        <h4><center>to login again click below</center></h4>
+        <center><input type="submit" value="Sign In"></center>
+        </fieldset>
+
+    </div>
+
+  </div>
+
+
+
+</body>
+
+<footer style="background-color:#0000FF;">
+  <p><h3>Website maintained and Developed by <b>Team TeraShare</b> </h3></p>
+  <p><h3>Contact information: <a href="mailto:terashare@iitgn.ac.in">
+  terashare@iitgn.ac.in</a>.</h3></p>
+</footer>
+</html>
